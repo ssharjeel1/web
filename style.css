@@ -1,0 +1,181 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .product {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+  }
+  
+  .product img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* style.css */
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* Adjust margin and padding for the product container */
+  .product {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Adjust margin and padding for sections */
+  section {
+    margin: 20px;
+    padding: 20px;
+  }
+  /* style.css */
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    background-color:#45a049;
+    border-radius: 20px;
+  }
+  
+  /* Button click effect */
+  button:active {
+    background-color:#3e8e41;
+  }
+/* style.css */
+
+/* Styling for h1 */
+h1 {
+    font-size: 28px;
+    color: black;
+    margin: 10px 0;
+  }
+  
+  /* Styling for h2 */
+  h2 {
+    font-size: 24px;
+    color: black;
+    margin: 10px 0;
+  }
+  
+  /* Styling for h3 */
+  h3 {
+    font-size: 20px;
+    color: black;
+    margin: 10px 0;
+  }
+/* style.css */
+
+/* Uppercase heading */
+h1, h2, h3 {
+    text-transform: uppercase;
+  }
+  
+  /* Lowercase heading */
+  h4, h5, h6 {
+    text-transform: lowercase;
+  }
+  
+  /* Capitalize heading */
+  h1.capitalize, h2.capitalize, h3.capitalize {
+    text-transform: capitalize;
+  }
+    h1{
+        color: white;
+    }
+    /* style.css */
+
+/* Styling for the navbar */
+
+
+
+
+ul li:hover{
+    /* background-color: aqua; */
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+
+
+
+
+
+
+
+
+
+
+
+
+}
